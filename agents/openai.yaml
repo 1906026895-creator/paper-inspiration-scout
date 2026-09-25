@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文灵感侦察"
+  short_description: "分轮粗读单篇论文，建立文章模型并产出灵感卡和最小验证方案"
+  default_prompt: "请使用 $paper-inspiration-scout 粗读这篇论文，先给我粗读地图，再分轮建立文章模型、灵感卡和最小验证方案。"
